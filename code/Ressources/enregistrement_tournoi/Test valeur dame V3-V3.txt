@@ -1,0 +1,18 @@
+IA ia_raphael_v3, profondeur : 2, parametre : 500 a 294 victoires.
+IA ia_raphael_v3, profondeur : 2, parametre : 1000 a 248 victoires.
+ 
+IA ia_raphael_v3, profondeur : 2, parametre : 500 a 239 victoires.
+IA ia_raphael_v3, profondeur : 2, parametre : 1500 a 282 victoires.
+ 
+IA ia_raphael_v3, profondeur : 2, parametre : 500 a 265 victoires.
+IA ia_raphael_v3, profondeur : 2, parametre : 2000 a 268 victoires.
+ 
+IA ia_raphael_v3, profondeur : 2, parametre : 1000 a 265 victoires.
+IA ia_raphael_v3, profondeur : 2, parametre : 1500 a 263 victoires.
+ 
+IA ia_raphael_v3, profondeur : 2, parametre : 1000 a 254 victoires.
+IA ia_raphael_v3, profondeur : 2, parametre : 2000 a 278 victoires.
+ 
+IA ia_raphael_v3, profondeur : 2, parametre : 1500 a 270 victoires.
+IA ia_raphael_v3, profondeur : 2, parametre : 2000 a 256 victoires.
+ 

@@ -1,0 +1,512 @@
+Profondeur : 2 -> 30.129% || 394911
+Profondeur : 3 -> 48.149% || 631102
+Profondeur : 4 -> 15.228% || 199602
+Profondeur : 5 -> 4.763% || 62427
+Profondeur : 6 -> 1.529% || 20042
+Profondeur : 7 -> 0.201% || 2633
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 21.588% || 282956
+Profondeur : 3 -> 53.238% || 697807
+Profondeur : 4 -> 17.785% || 233118
+Profondeur : 5 -> 5.336% || 69940
+Profondeur : 6 -> 1.802% || 23624
+Profondeur : 7 -> 0.250% || 3272
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 15.313% || 200707
+Profondeur : 3 -> 56.638% || 742364
+Profondeur : 4 -> 19.903% || 260875
+Profondeur : 5 -> 5.833% || 76449
+Profondeur : 6 -> 2.022% || 26498
+Profondeur : 7 -> 0.292% || 3824
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 10.099% || 132375
+Profondeur : 3 -> 59.219% || 776194
+Profondeur : 4 -> 21.816% || 285951
+Profondeur : 5 -> 6.308% || 82674
+Profondeur : 6 -> 2.228% || 29199
+Profondeur : 7 -> 0.330% || 4324
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 8.825% || 115674
+Profondeur : 3 -> 59.688% || 782343
+Profondeur : 4 -> 22.424% || 293910
+Profondeur : 5 -> 6.454% || 84588
+Profondeur : 6 -> 2.272% || 29778
+Profondeur : 7 -> 0.338% || 4424
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 8.575% || 112390
+Profondeur : 3 -> 59.747% || 783113
+Profondeur : 4 -> 22.583% || 296005
+Profondeur : 5 -> 6.486% || 85007
+Profondeur : 6 -> 2.272% || 29778
+Profondeur : 7 -> 0.338% || 4424
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 8.309% || 108906
+Profondeur : 3 -> 59.822% || 784098
+Profondeur : 4 -> 22.738% || 298034
+Profondeur : 5 -> 6.521% || 85477
+Profondeur : 6 -> 2.272% || 29778
+Profondeur : 7 -> 0.338% || 4424
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 8.004% || 104910
+Profondeur : 3 -> 59.918% || 785356
+Profondeur : 4 -> 22.908% || 300259
+Profondeur : 5 -> 6.561% || 85990
+Profondeur : 6 -> 2.272% || 29778
+Profondeur : 7 -> 0.338% || 4424
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 7.759% || 101693
+Profondeur : 3 -> 59.986% || 786252
+Profondeur : 4 -> 23.053% || 302158
+Profondeur : 5 -> 6.593% || 86412
+Profondeur : 6 -> 2.272% || 29778
+Profondeur : 7 -> 0.338% || 4424
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 7.533% || 98740
+Profondeur : 3 -> 60.040% || 786961
+Profondeur : 4 -> 23.192% || 303981
+Profondeur : 5 -> 6.625% || 86833
+Profondeur : 6 -> 2.272% || 29778
+Profondeur : 7 -> 0.338% || 4424
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 7.307% || 95770
+Profondeur : 3 -> 60.080% || 787485
+Profondeur : 4 -> 23.344% || 305974
+Profondeur : 5 -> 6.659% || 87286
+Profondeur : 6 -> 2.272% || 29778
+Profondeur : 7 -> 0.338% || 4424
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 7.049% || 92393
+Profondeur : 3 -> 60.129% || 788121
+Profondeur : 4 -> 23.516% || 308230
+Profondeur : 5 -> 6.696% || 87771
+Profondeur : 6 -> 2.272% || 29778
+Profondeur : 7 -> 0.338% || 4424
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 6.758% || 88585
+Profondeur : 3 -> 60.176% || 788743
+Profondeur : 4 -> 23.718% || 310881
+Profondeur : 5 -> 6.737% || 88306
+Profondeur : 6 -> 2.272% || 29778
+Profondeur : 7 -> 0.338% || 4424
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 6.517% || 85416
+Profondeur : 3 -> 60.209% || 789175
+Profondeur : 4 -> 23.893% || 313169
+Profondeur : 5 -> 6.771% || 88755
+Profondeur : 6 -> 2.272% || 29778
+Profondeur : 7 -> 0.338% || 4424
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 6.276% || 82260
+Profondeur : 3 -> 60.241% || 789590
+Profondeur : 4 -> 24.065% || 315426
+Profondeur : 5 -> 6.808% || 89239
+Profondeur : 6 -> 2.272% || 29778
+Profondeur : 7 -> 0.338% || 4424
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 6.066% || 79509
+Profondeur : 3 -> 60.261% || 789857
+Profondeur : 4 -> 24.220% || 317455
+Profondeur : 5 -> 6.843% || 89694
+Profondeur : 6 -> 2.272% || 29778
+Profondeur : 7 -> 0.338% || 4424
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 5.866% || 76893
+Profondeur : 3 -> 60.282% || 790130
+Profondeur : 4 -> 24.363% || 319332
+Profondeur : 5 -> 6.879% || 90160
+Profondeur : 6 -> 2.272% || 29778
+Profondeur : 7 -> 0.338% || 4424
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 5.670% || 74324
+Profondeur : 3 -> 60.298% || 790342
+Profondeur : 4 -> 24.510% || 321257
+Profondeur : 5 -> 6.912% || 90592
+Profondeur : 6 -> 2.272% || 29778
+Profondeur : 7 -> 0.338% || 4424
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 5.470% || 71692
+Profondeur : 3 -> 60.303% || 790399
+Profondeur : 4 -> 24.670% || 323356
+Profondeur : 5 -> 6.948% || 91068
+Profondeur : 6 -> 2.272% || 29778
+Profondeur : 7 -> 0.338% || 4424
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 5.246% || 68765
+Profondeur : 3 -> 60.304% || 790418
+Profondeur : 4 -> 24.854% || 325770
+Profondeur : 5 -> 6.986% || 91562
+Profondeur : 6 -> 2.272% || 29778
+Profondeur : 7 -> 0.338% || 4424
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 5.086% || 66658
+Profondeur : 3 -> 60.280% || 790108
+Profondeur : 4 -> 25.008% || 327786
+Profondeur : 5 -> 7.016% || 91963
+Profondeur : 6 -> 2.272% || 29778
+Profondeur : 7 -> 0.338% || 4424
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 4.907% || 64315
+Profondeur : 3 -> 60.282% || 790130
+Profondeur : 4 -> 25.150% || 329642
+Profondeur : 5 -> 7.052% || 92428
+Profondeur : 6 -> 2.272% || 29778
+Profondeur : 7 -> 0.338% || 4424
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 4.743% || 62165
+Profondeur : 3 -> 60.281% || 790117
+Profondeur : 4 -> 25.283% || 331394
+Profondeur : 5 -> 7.083% || 92839
+Profondeur : 6 -> 2.272% || 29778
+Profondeur : 7 -> 0.338% || 4424
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 4.565% || 59834
+Profondeur : 3 -> 60.244% || 789630
+Profondeur : 4 -> 25.463% || 333745
+Profondeur : 5 -> 7.119% || 93306
+Profondeur : 6 -> 2.272% || 29778
+Profondeur : 7 -> 0.338% || 4424
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 2.535% || 33223
+Profondeur : 3 -> 59.168% || 775523
+Profondeur : 4 -> 27.804% || 364431
+Profondeur : 5 -> 7.617% || 99837
+Profondeur : 6 -> 2.496% || 32713
+Profondeur : 7 -> 0.381% || 4990
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 1.495% || 19592
+Profondeur : 3 -> 57.791% || 757477
+Profondeur : 4 -> 29.606% || 388049
+Profondeur : 5 -> 8.013% || 105027
+Profondeur : 6 -> 2.677% || 35089
+Profondeur : 7 -> 0.418% || 5483
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 0.619% || 8111
+Profondeur : 3 -> 55.192% || 723417
+Profondeur : 4 -> 32.228% || 422414
+Profondeur : 5 -> 8.562% || 112227
+Profondeur : 6 -> 2.934% || 38458
+Profondeur : 7 -> 0.465% || 6090
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 0.347% || 4542
+Profondeur : 3 -> 53.269% || 698207
+Profondeur : 4 -> 33.853% || 443718
+Profondeur : 5 -> 8.933% || 117092
+Profondeur : 6 -> 3.101% || 40650
+Profondeur : 7 -> 0.497% || 6508
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 0.164% || 2145
+Profondeur : 3 -> 50.849% || 666493
+Profondeur : 4 -> 35.776% || 468917
+Profondeur : 5 -> 9.368% || 122787
+Profondeur : 6 -> 3.306% || 43329
+Profondeur : 7 -> 0.538% || 7046
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 0.082% || 1079
+Profondeur : 3 -> 48.421% || 634658
+Profondeur : 4 -> 37.656% || 493565
+Profondeur : 5 -> 9.766% || 128001
+Profondeur : 6 -> 3.499% || 45860
+Profondeur : 7 -> 0.576% || 7554
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 0.033% || 432
+Profondeur : 3 -> 45.551% || 597050
+Profondeur : 4 -> 39.876% || 522662
+Profondeur : 5 -> 10.211% || 133843
+Profondeur : 6 -> 3.712% || 48656
+Profondeur : 7 -> 0.616% || 8074
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 0.014% || 186
+Profondeur : 3 -> 42.941% || 562834
+Profondeur : 4 -> 41.871% || 548816
+Profondeur : 5 -> 10.610% || 139072
+Profondeur : 6 -> 3.910% || 51254
+Profondeur : 7 -> 0.653% || 8555
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 0.003% || 41
+Profondeur : 3 -> 38.800% || 508553
+Profondeur : 4 -> 44.971% || 589446
+Profondeur : 5 -> 11.291% || 147997
+Profondeur : 6 -> 4.222% || 55343
+Profondeur : 7 -> 0.712% || 9337
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 0.001% || 11
+Profondeur : 3 -> 36.189% || 474333
+Profondeur : 4 -> 46.935% || 615189
+Profondeur : 5 -> 11.718% || 153585
+Profondeur : 6 -> 4.409% || 57794
+Profondeur : 7 -> 0.748% || 9805
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 0.000% || 2
+Profondeur : 3 -> 33.657% || 441147
+Profondeur : 4 -> 48.818% || 639865
+Profondeur : 5 -> 12.125% || 158921
+Profondeur : 6 -> 4.613% || 60467
+Profondeur : 7 -> 0.787% || 10315
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 0.000% || 1
+Profondeur : 3 -> 30.788% || 403549
+Profondeur : 4 -> 50.979% || 668188
+Profondeur : 5 -> 12.575% || 164829
+Profondeur : 6 -> 4.829% || 63296
+Profondeur : 7 -> 0.828% || 10854
+99.99977% du fichier est rempli.
+
+Profondeur : 2 -> 0.000% || 1
+Profondeur : 3 -> 28.723% || 376479
+Profondeur : 4 -> 52.491% || 688008
+Profondeur : 5 -> 12.921% || 169356
+Profondeur : 6 -> 5.000% || 65538
+Profondeur : 7 -> 0.865% || 11335
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 26.846% || 351880
+Profondeur : 4 -> 53.791% || 705054
+Profondeur : 5 -> 13.302% || 174358
+Profondeur : 6 -> 5.162% || 67654
+Profondeur : 7 -> 0.898% || 11771
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 24.612% || 322596
+Profondeur : 4 -> 55.427% || 726495
+Profondeur : 5 -> 13.672% || 179199
+Profondeur : 6 -> 5.355% || 70187
+Profondeur : 7 -> 0.934% || 12240
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 22.891% || 300038
+Profondeur : 4 -> 56.611% || 742016
+Profondeur : 5 -> 14.029% || 183886
+Profondeur : 6 -> 5.500% || 72094
+Profondeur : 7 -> 0.968% || 12683
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 20.680% || 271061
+Profondeur : 4 -> 58.164% || 762373
+Profondeur : 5 -> 14.446% || 189345
+Profondeur : 6 -> 5.704% || 74766
+Profondeur : 7 -> 1.005% || 13172
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 19.195% || 251589
+Profondeur : 4 -> 59.161% || 775432
+Profondeur : 5 -> 14.754% || 193380
+Profondeur : 6 -> 5.853% || 76722
+Profondeur : 7 -> 1.037% || 13594
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 17.611% || 230829
+Profondeur : 4 -> 60.219% || 789302
+Profondeur : 5 -> 15.084% || 197703
+Profondeur : 6 -> 6.015% || 78845
+Profondeur : 7 -> 1.071% || 14038
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 15.858% || 207853
+Profondeur : 4 -> 61.367% || 804344
+Profondeur : 5 -> 15.463% || 202678
+Profondeur : 6 -> 6.204% || 81322
+Profondeur : 7 -> 1.108% || 14520
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 14.278% || 187142
+Profondeur : 4 -> 62.393% || 817802
+Profondeur : 5 -> 15.802% || 207121
+Profondeur : 6 -> 6.383% || 83661
+Profondeur : 7 -> 1.144% || 14991
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 12.564% || 164685
+Profondeur : 4 -> 63.463% || 831818
+Profondeur : 5 -> 16.205% || 212398
+Profondeur : 6 -> 6.585% || 86309
+Profondeur : 7 -> 1.183% || 15507
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 11.540% || 151263
+Profondeur : 4 -> 64.048% || 839493
+Profondeur : 5 -> 16.492% || 216168
+Profondeur : 6 -> 6.707% || 87914
+Profondeur : 7 -> 1.211% || 15879
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 10.271% || 134625
+Profondeur : 4 -> 64.736% || 848514
+Profondeur : 5 -> 16.868% || 221091
+Profondeur : 6 -> 6.876% || 90131
+Profondeur : 7 -> 1.248% || 16356
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 9.278% || 121614
+Profondeur : 4 -> 65.243% || 855156
+Profondeur : 5 -> 17.175% || 225114
+Profondeur : 6 -> 7.028% || 92118
+Profondeur : 7 -> 1.275% || 16715
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 9.278% || 121614
+Profondeur : 4 -> 65.243% || 855156
+Profondeur : 5 -> 17.175% || 225114
+Profondeur : 6 -> 7.028% || 92118
+Profondeur : 7 -> 1.275% || 16715
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 9.278% || 121614
+Profondeur : 4 -> 65.243% || 855156
+Profondeur : 5 -> 17.175% || 225114
+Profondeur : 6 -> 7.028% || 92118
+Profondeur : 7 -> 1.275% || 16715
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 9.278% || 121614
+Profondeur : 4 -> 65.243% || 855156
+Profondeur : 5 -> 17.175% || 225114
+Profondeur : 6 -> 7.028% || 92118
+Profondeur : 7 -> 1.275% || 16715
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 9.278% || 121614
+Profondeur : 4 -> 65.243% || 855156
+Profondeur : 5 -> 17.175% || 225114
+Profondeur : 6 -> 7.028% || 92118
+Profondeur : 7 -> 1.275% || 16715
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 9.278% || 121614
+Profondeur : 4 -> 65.243% || 855156
+Profondeur : 5 -> 17.175% || 225114
+Profondeur : 6 -> 7.028% || 92118
+Profondeur : 7 -> 1.275% || 16715
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 9.278% || 121614
+Profondeur : 4 -> 65.243% || 855156
+Profondeur : 5 -> 17.175% || 225114
+Profondeur : 6 -> 7.028% || 92118
+Profondeur : 7 -> 1.275% || 16715
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 9.278% || 121614
+Profondeur : 4 -> 65.243% || 855156
+Profondeur : 5 -> 17.175% || 225114
+Profondeur : 6 -> 7.028% || 92118
+Profondeur : 7 -> 1.275% || 16715
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 9.278% || 121614
+Profondeur : 4 -> 65.243% || 855156
+Profondeur : 5 -> 17.175% || 225114
+Profondeur : 6 -> 7.028% || 92118
+Profondeur : 7 -> 1.275% || 16715
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 9.278% || 121614
+Profondeur : 4 -> 65.243% || 855156
+Profondeur : 5 -> 17.175% || 225114
+Profondeur : 6 -> 7.028% || 92118
+Profondeur : 7 -> 1.275% || 16715
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 9.278% || 121614
+Profondeur : 4 -> 65.243% || 855156
+Profondeur : 5 -> 17.175% || 225114
+Profondeur : 6 -> 7.028% || 92118
+Profondeur : 7 -> 1.275% || 16715
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 9.278% || 121614
+Profondeur : 4 -> 65.243% || 855156
+Profondeur : 5 -> 17.175% || 225114
+Profondeur : 6 -> 7.028% || 92118
+Profondeur : 7 -> 1.275% || 16715
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 9.278% || 121614
+Profondeur : 4 -> 65.243% || 855156
+Profondeur : 5 -> 17.175% || 225114
+Profondeur : 6 -> 7.028% || 92118
+Profondeur : 7 -> 1.275% || 16715
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 9.278% || 121614
+Profondeur : 4 -> 65.243% || 855156
+Profondeur : 5 -> 17.175% || 225114
+Profondeur : 6 -> 7.028% || 92118
+Profondeur : 7 -> 1.275% || 16715
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 9.278% || 121614
+Profondeur : 4 -> 65.243% || 855156
+Profondeur : 5 -> 17.175% || 225114
+Profondeur : 6 -> 7.028% || 92118
+Profondeur : 7 -> 1.275% || 16715
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 9.278% || 121614
+Profondeur : 4 -> 65.243% || 855156
+Profondeur : 5 -> 17.175% || 225114
+Profondeur : 6 -> 7.028% || 92118
+Profondeur : 7 -> 1.275% || 16715
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 9.278% || 121614
+Profondeur : 4 -> 65.243% || 855156
+Profondeur : 5 -> 17.175% || 225114
+Profondeur : 6 -> 7.028% || 92118
+Profondeur : 7 -> 1.275% || 16715
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 9.278% || 121614
+Profondeur : 4 -> 65.243% || 855156
+Profondeur : 5 -> 17.175% || 225114
+Profondeur : 6 -> 7.028% || 92118
+Profondeur : 7 -> 1.275% || 16715
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 9.278% || 121614
+Profondeur : 4 -> 65.243% || 855156
+Profondeur : 5 -> 17.175% || 225114
+Profondeur : 6 -> 7.028% || 92118
+Profondeur : 7 -> 1.275% || 16715
+99.99977% du fichier est rempli.
+
+Profondeur : 3 -> 9.278% || 121614
+Profondeur : 4 -> 65.243% || 855156
+Profondeur : 5 -> 17.175% || 225114
+Profondeur : 6 -> 7.028% || 92118
+Profondeur : 7 -> 1.275% || 16715
+99.99977% du fichier est rempli.

@@ -1,0 +1,21 @@
+IA ia_raphael_v2, profondeur : 1 a 481 victoires.
+IA ia_raphael_v2, profondeur : 1 a 437 victoires.
+ 
+IA ia_raphael_v2, profondeur : 1 a 307 victoires.
+IA ia_raphael_v2, profondeur : 2 a 577 victoires.
+ 
+IA ia_raphael_v2, profondeur : 1 a 413 victoires.
+IA ia_raphael_v2, profondeur : 3 a 481 victoires.
+ 
+IA ia_raphael_v2, profondeur : 1 a 361 victoires.
+IA ia_raphael_v2, profondeur : 4 a 533 victoires.
+ 
+IA ia_raphael_v2, profondeur : 1 a 490 victoires.
+IA ia_raphael_v2, profondeur : 5 a 408 victoires.
+ 
+IA ia_raphael_v2, profondeur : 1 a 406 victoires.
+IA ia_raphael_v2, profondeur : 6 a 439 victoires.
+ 
+IA ia_raphael_v2, profondeur : 1 a 503 victoires.
+IA ia_raphael_v2, profondeur : 7 a 371 victoires.
+ 

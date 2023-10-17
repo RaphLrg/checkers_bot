@@ -1,0 +1,42 @@
+IA ia_raphael_v3, profondeur : 8, parametre : 0 a 8 victoires.
+IA ia_raphael_v3, profondeur : 2, parametre : 50 a 2 victoires.
+ 
+IA ia_raphael_v2, profondeur : 6, parametre : 0 a 1 victoires.
+IA ia_raphael_v3, profondeur : 6, parametre : 50 a 0 victoires.
+ 
+IA ia_raphael_v2, profondeur : 6, parametre : 0 a 0 victoires.
+IA ia_raphael_v3, profondeur : 6, parametre : 50 a 1 victoires.
+ 
+IA ia_raphael_v2, profondeur : 6, parametre : 0 a 6 victoires.
+IA ia_raphael_v3, profondeur : 6, parametre : 50 a 4 victoires.
+ 
+IA ia_raphael_v2, profondeur : 6, parametre : 0 a 5 victoires.
+IA ia_raphael_v3, profondeur : 6, parametre : 50 a 5 victoires.
+ 
+IA ia_raphael_v2, profondeur : 6, parametre : 0 a 3 victoires.
+IA ia_raphael_v3, profondeur : 6, parametre : 4 a 7 victoires.
+ 
+IA ia_raphael_v2, profondeur : 6, parametre : 0 a 5 victoires.
+IA ia_raphael_v3, profondeur : 6, parametre : 6 a 5 victoires.
+ 
+IA ia_raphael_v2, profondeur : 8, parametre : 0 a 4 victoires.
+IA ia_raphael_v3, profondeur : 8, parametre : 6 a 6 victoires.
+ 
+IA ia_raphael_v2, profondeur : 8, parametre : 0 a 9 victoires.
+IA ia_raphael_v3, profondeur : 8, parametre : 6 a 1 victoires.
+ 
+IA ia_raphael_v2, profondeur : 4, parametre : 0 a 0 victoires.
+IA ia_raphael_v3, profondeur : 4, parametre : 3 a 1 victoires.
+ 
+IA ia_raphael_v2, profondeur : 4, parametre : 0 a 3 victoires.
+IA ia_raphael_v3, profondeur : 4, parametre : 3 a 7 victoires.
+ 
+IA ia_raphael_v2, profondeur : 4, parametre : 0 a 50 victoires.
+IA ia_raphael_v3, profondeur : 4, parametre : 3 a 50 victoires.
+ 
+IA ia_raphael_v2, profondeur : 4, parametre : 0 a 467 victoires.
+IA ia_raphael_v3, profondeur : 4, parametre : 2 a 533 victoires.
+ 
+IA ia_raphael_v2, profondeur : 7, parametre : 0 a 2 victoires.
+IA ia_raphael_v3, profondeur : 7, parametre : 4 a 1 victoires.
+ 

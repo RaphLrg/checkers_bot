@@ -1,0 +1,24 @@
+IA ia_random, profondeur : 2 a 5065 victoires.
+IA ia_random, profondeur : 2 a 4935 victoires.
+ 
+IA ia_random, profondeur : 2 a 0 victoires.
+IA ia_random, profondeur : 2 a 0 victoires.
+ 
+IA ia_random, profondeur : 2 a 0 victoires.
+IA ia_random, profondeur : 2 a 0 victoires.
+ 
+IA ia_random, profondeur : 2 a 537 victoires.
+IA ia_random, profondeur : 2 a 463 victoires.
+ 
+IA ia_random, profondeur : 2 a 4964 victoires.
+IA ia_random, profondeur : 2 a 5036 victoires.
+ 
+IA ia_random, profondeur : 2 a -15822 victoires.
+IA ia_random, profondeur : 2 a -15250 victoires.
+ 
+IA ia_random, profondeur : 2 a 5036 victoires.
+IA ia_random, profondeur : 2 a 4964 victoires.
+ 
+IA ia_random, profondeur : 2 a 15137 victoires.
+IA ia_random, profondeur : 2 a 14863 victoires.
+ 

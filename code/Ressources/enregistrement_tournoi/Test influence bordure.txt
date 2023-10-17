@@ -1,0 +1,111 @@
+IA ia_raphael_v3, param_cout : -100 a 1 victoires.
+IA ia_raphael_v3, param_cout : -75 a 0 victoires.
+ 
+IA ia_raphael_v3, param_cout : -100 a 0 victoires.
+IA ia_raphael_v3, param_cout : -75 a 2 victoires.
+ 
+IA ia_raphael_v3, param_cout : 25 a 0 victoires.
+IA ia_raphael_v3, param_cout : 25 a 2 victoires.
+ 
+IA ia_raphael_v3, param_cout : -100 a 0 victoires.
+IA ia_raphael_v3, param_cout : -75 a 2 victoires.
+ 
+IA ia_raphael_v3, param_cout : -100 a 0 victoires.
+IA ia_raphael_v3, param_cout : -50 a 1 victoires.
+ 
+IA ia_raphael_v3, param_cout : -100 a 1 victoires.
+IA ia_raphael_v3, param_cout : -25 a 1 victoires.
+ 
+IA ia_raphael_v3, param_cout : -100 a 1 victoires.
+IA ia_raphael_v3, param_cout : 0 a 1 victoires.
+ 
+IA ia_raphael_v3, param_cout : -100 a 1 victoires.
+IA ia_raphael_v3, param_cout : 25 a 0 victoires.
+ 
+IA ia_raphael_v3, param_cout : -100 a 1 victoires.
+IA ia_raphael_v3, param_cout : 50 a 0 victoires.
+ 
+IA ia_raphael_v3, param_cout : -100 a 1 victoires.
+IA ia_raphael_v3, param_cout : 75 a 0 victoires.
+ 
+IA ia_raphael_v3, param_cout : -100 a 77 victoires.
+IA ia_raphael_v3, param_cout : -75 a 99 victoires.
+ 
+IA ia_raphael_v3, param_cout : -100 a 81 victoires.
+IA ia_raphael_v3, param_cout : -50 a 88 victoires.
+ 
+IA ia_raphael_v3, param_cout : -100 a 61 victoires.
+IA ia_raphael_v3, param_cout : 0 a 115 victoires.
+ 
+IA ia_raphael_v3, param_cout : -75 a 80 victoires.
+IA ia_raphael_v3, param_cout : 0 a 89 victoires.
+ 
+IA ia_raphael_v3, param_cout : -50 a 95 victoires.
+IA ia_raphael_v3, param_cout : 0 a 75 victoires.
+ 
+IA ia_raphael_v3, param_cout : -25 a 93 victoires.
+IA ia_raphael_v3, param_cout : 0 a 85 victoires.
+ 
+IA ia_raphael_v3, param_cout : 0 a 87 victoires.
+IA ia_raphael_v3, param_cout : 0 a 87 victoires.
+ 
+IA ia_raphael_v3, param_cout : 25 a 98 victoires.
+IA ia_raphael_v3, param_cout : 0 a 82 victoires.
+ 
+IA ia_raphael_v3, param_cout : 50 a 21 victoires.
+IA ia_raphael_v3, param_cout : 0 a 27 victoires.
+ 
+IA ia_raphael_v3, param_cout : 100 a 26 victoires.
+IA ia_raphael_v3, param_cout : 0 a 18 victoires.
+ 
+IA ia_raphael_v3, param_cout : 150 a 18 victoires.
+IA ia_raphael_v3, param_cout : 0 a 28 victoires.
+ 
+IA ia_raphael_v3, param_cout : 200 a 20 victoires.
+IA ia_raphael_v3, param_cout : 0 a 27 victoires.
+ 
+IA ia_raphael_v3, param_cout : 10000 a 3 victoires.
+IA ia_raphael_v3, param_cout : 0 a 40 victoires.
+ 
+IA ia_raphael_v3, param_cout : 10000 a 8 victoires.
+IA ia_raphael_v3, param_cout : 0 a 39 victoires.
+ 
+IA ia_raphael_v3, param_cout : 10000 a 10 victoires.
+IA ia_raphael_v3, param_cout : 0 a 38 victoires.
+ 
+IA ia_raphael_v3, param_cout : 10000 a 128 victoires.
+IA ia_raphael_v3, param_cout : 0 a 803 victoires.
+ 
+IA ia_raphael_v2, param_cout : 0 a 39 victoires.
+IA ia_raphael_v3, param_cout : 0 a 45 victoires.
+ 
+IA ia_raphael_v2, param_cout : 0 a 12 victoires.
+IA ia_raphael_v3, param_cout : 0 a 73 victoires.
+ 
+IA ia_raphael_v2, param_cout : 0 a 21 victoires.
+IA ia_raphael_v3, param_cout : 0 a 68 victoires.
+ 
+IA ia_raphael_v2, param_cout : 0 a 45 victoires.
+IA ia_raphael_v3, param_cout : 0 a 45 victoires.
+ 
+IA ia_raphael_v2, param_cout : 50 a 49 victoires.
+IA ia_raphael_v3, param_cout : 0 a 40 victoires.
+ 
+IA ia_raphael_v2, param_cout : 100 a 40 victoires.
+IA ia_raphael_v3, param_cout : 0 a 44 victoires.
+ 
+IA ia_raphael_v2, param_cout : 150 a 46 victoires.
+IA ia_raphael_v3, param_cout : 0 a 44 victoires.
+ 
+IA ia_raphael_v2, param_cout : 200 a 51 victoires.
+IA ia_raphael_v3, param_cout : 0 a 37 victoires.
+ 
+IA ia_raphael_v2, param_cout : 200 a 80 victoires.
+IA ia_raphael_v3, param_cout : 0 a 102 victoires.
+ 
+IA ia_raphael_v2, param_cout : 250 a 77 victoires.
+IA ia_raphael_v3, param_cout : 0 a 103 victoires.
+ 
+IA ia_raphael_v2, param_cout : 300 a 80 victoires.
+IA ia_raphael_v3, param_cout : 0 a 104 victoires.
+ 
